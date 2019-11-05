@@ -27,7 +27,7 @@ public class Cliente {
             Scanner meu = new Scanner(System.in);
             Socket s = new Socket("127.0.0.1", 5000);
             
-            System.out.println(Servidor.usuario);
+            System.out.println(Servidor.usuario.);
 
 
           
